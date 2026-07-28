@@ -10,6 +10,12 @@ A LangChain-powered RAG (Retrieval Augmented Generation) app that lets you uploa
 - Abbreviation expansion for better retrieval (BFS, NLP, RAG, etc.)
 - PDF upload and ingestion
 
+## Tech Stack
+- LangChain
+- ChromaDB
+- Mistral AI
+- Streamlit
+
 ## Setup (Local)
 
 1. **Clone the repository**
