@@ -8,6 +8,7 @@ A LangChain-powered RAG (Retrieval Augmented Generation) app that lets you uploa
 - Semantic search with MMR retrieval
 - Streaming AI answers with source citations
 - Abbreviation expansion for better retrieval (BFS, NLP, RAG, etc.)
+- PDF upload and ingestion
 
 ## Setup (Local)
 
