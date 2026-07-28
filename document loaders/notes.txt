@@ -1,0 +1,29 @@
+AI Course Notes — Summary
+
+Topic: Introduction to Artificial Intelligence
+Source reference: AI_Info.pdf (Intro to AI lecture notes)
+
+1. Search
+- Covers problem formulation, deterministic and fully observable environments.
+- Tree search algorithms: BFS, uniform-cost search, DFS, iterative deepening.
+- Informed search: A* search, admissible heuristics, memory-bounded A*.
+- Discusses graph search and handling repeated states.
+
+2. Probabilities
+- Basics: random variables, joint/marginal/conditional distributions, Bayes' theorem.
+- Distributions: Bernoulli, Binomial, Beta, Multinomial, Dirichlet, conjugate priors.
+- Continuous distributions: Gaussian, Dirac, particle approximations.
+- Decision theory: utilities, entropy, KL divergence.
+- Monte Carlo methods: rejection sampling, importance sampling.
+
+3. Bandits, MCTS & Games
+- Multi-armed bandits and the exploration-exploitation tradeoff.
+- Upper Confidence Bound (UCB1) algorithm.
+- Monte Carlo Tree Search (MCTS) and Upper Confidence Trees (UCT).
+- Application of MCTS to POMDPs.
+- Game playing algorithms.
+
+Notes:
+This file is a plain-text companion to AI_Info.pdf, used to test that both
+the PDF loader and text loader correctly ingest documents into the RAG
+pipeline (chunking, embedding, and retrieval across mixed file types).
