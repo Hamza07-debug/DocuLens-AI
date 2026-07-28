@@ -14,8 +14,8 @@ A LangChain-powered RAG (Retrieval Augmented Generation) app that lets you uploa
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/Hamza07-debug/rag-project.git
-   cd rag-project
+   git clone https://github.com/Hamza07-debug/DocuLens-AI.git
+   cd DocuLens-AI
    ```
 
 2. **Create a virtual environment**
